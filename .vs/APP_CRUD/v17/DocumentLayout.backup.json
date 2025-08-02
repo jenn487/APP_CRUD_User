@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Documents\\GitHub\\PIII\\APP_CRUD\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DFD3B248-593D-4B24-AE5F-63E13893A6C4}|APP_CRUD.csproj|c:\\users\\user\\documents\\github\\piii\\app_crud\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DFD3B248-593D-4B24-AE5F-63E13893A6C4}|APP_CRUD.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{DFD3B248-593D-4B24-AE5F-63E13893A6C4}|APP_CRUD.csproj|c:\\users\\user\\documents\\github\\piii\\app_crud\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFD3B248-593D-4B24-AE5F-63E13893A6C4}|APP_CRUD.csproj|solutionrelative:models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DFD3B248-593D-4B24-AE5F-63E13893A6C4}|APP_CRUD.csproj|c:\\users\\user\\documents\\github\\piii\\app_crud\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{DFD3B248-593D-4B24-AE5F-63E13893A6C4}|APP_CRUD.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{DFD3B248-593D-4B24-AE5F-63E13893A6C4}|APP_CRUD.csproj|c:\\users\\user\\documents\\github\\piii\\app_crud\\views\\usuarios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DFD3B248-593D-4B24-AE5F-63E13893A6C4}|APP_CRUD.csproj|solutionrelative:views\\usuarios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DFD3B248-593D-4B24-AE5F-63E13893A6C4}|APP_CRUD.csproj|c:\\users\\user\\documents\\github\\piii\\app_crud\\wwwroot\\css\\admin-style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{DFD3B248-593D-4B24-AE5F-63E13893A6C4}|APP_CRUD.csproj|solutionrelative:wwwroot\\css\\admin-style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DFD3B248-593D-4B24-AE5F-63E13893A6C4}|APP_CRUD.csproj|c:\\users\\user\\documents\\github\\piii\\app_crud\\views\\usuarios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DFD3B248-593D-4B24-AE5F-63E13893A6C4}|APP_CRUD.csproj|solutionrelative:views\\usuarios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{DFD3B248-593D-4B24-AE5F-63E13893A6C4}|APP_CRUD.csproj|c:\\users\\user\\documents\\github\\piii\\app_crud\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DFD3B248-593D-4B24-AE5F-63E13893A6C4}|APP_CRUD.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,19 +35,31 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\PIII\\APP_CRUD\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\PIII\\APP_CRUD\\Models\\Usuario.cs",
+              "RelativeToolTip": "Models\\Usuario.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T02:38:11.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\PIII\\APP_CRUD\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\PIII\\APP_CRUD\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-02T01:35:01.832Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-02T01:35:01.832Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "admin-style.css",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\PIII\\APP_CRUD\\wwwroot\\css\\admin-style.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\admin-style.css",
@@ -51,21 +67,19 @@
               "RelativeToolTip": "wwwroot\\css\\admin-style.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-08-02T01:33:00.25Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-02T01:33:00.25Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\PIII\\APP_CRUD\\Views\\Usuarios\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Usuarios\\Index.cshtml",
               "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\PIII\\APP_CRUD\\Views\\Usuarios\\Index.cshtml",
               "RelativeToolTip": "Views\\Usuarios\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-02T00:59:10.373Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-02T00:59:10.373Z"
             },
             {
               "$type": "Document",
