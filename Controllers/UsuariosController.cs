@@ -24,6 +24,31 @@ namespace APP_CRUD.Controllers
             return View(await _context.Usuarios.ToListAsync());
         }
 
+        // GET: Usuarios/Login
+        public IActionResult Login()
+        {
+            return View();
+        }
+
+        // POST: Usuarios/Login
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> Login(string username, string password)
+        {
+            var usuario = await _context.Usuarios
+                .FirstOrDefaultAsync(u => u.Nombre == username && u.Contrasenia == password);
+
+            if (usuario != null)
+            {
+                HttpContext.Session.SetInt32("UsuarioId", usuario.Id);
+                return RedirectToAction("Index", "Home");
+            }
+
+            ViewBag.Error = "Usuario o contraseña incorrectos";
+            return View();
+        }
+
+
         // GET: Usuarios/Details/5
         public async Task<IActionResult> Details(int? id)
         {
